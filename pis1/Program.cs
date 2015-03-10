@@ -11,6 +11,7 @@ namespace pis1
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Audi R8");
+            Console.WriteLine("5.2 V10");
         }
     }
 }
