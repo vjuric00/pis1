@@ -10,6 +10,7 @@ namespace pis1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Audi R8");
         }
     }
 }
